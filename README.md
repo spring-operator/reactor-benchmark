@@ -12,7 +12,7 @@ These benchmarks measure the relative performance of various components of the R
 
 ### Running
 
-The benchmarks are [JMH](http://openjdk.java.net/projects/code-tools/jmh/) based. To run them, clone the project, then run the `microbenchmarks.jar` using `java -jar`. For example, to run the `ReactorBenchmarks` which measure the performance of the event publication system, do something like the following:
+The benchmarks are [JMH](https://openjdk.java.net/projects/code-tools/jmh/) based. To run them, clone the project, then run the `microbenchmarks.jar` using `java -jar`. For example, to run the `ReactorBenchmarks` which measure the performance of the event publication system, do something like the following:
 
 		> git clone https://github.com/reactor/reactor-benchmark.git
 		> cd reactor-benchmark
